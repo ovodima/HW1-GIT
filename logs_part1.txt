@@ -1,0 +1,8 @@
+
+PS D:\Dima\Hillel-course> git reflog
+127f026 (HEAD -> master, origin/master, feature2, feature1, 
+develop) HEAD@{0}: Branch: renamed refs/heads/master to refs/heads/master
+127f026 (HEAD -> master, origin/master, feature2, feature1, 
+develop) HEAD@{2}: merge develop: Fast-forward
+0d9ab8a HEAD@{3}: checkout: moving from feature2 to master  
+:
